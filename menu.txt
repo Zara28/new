@@ -9,10 +9,10 @@ PublicHouses
 %Klinika
 %museum
 %Tyurima
-Monuments
-%Lenin
-%EiffelTower
-%StatuyaSvobodi
+Colors
+%Red
+%Blue
+%Green
 Roads
 %Reka
 %Pole
